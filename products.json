@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Филадельфия",
     "price": 450,
-    "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/philadelphia.png",
+    "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/roll_philadelfia.png",
     "category": "rolls",
     "description": "Лосось, сливочный сыр, огурец."
   },
